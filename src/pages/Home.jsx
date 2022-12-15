@@ -16,8 +16,7 @@ function Home () {
             </div>
             <hr className="page-break"></hr>
             <div className="explore-container">
-                <h3>EXPLORE WORK</h3>
-                <Link to='/portfolio'><button className="explore-button">Portfolio</button></Link>
+                <Link to='/portfolio'><button className="explore-button"><h3>EXPLORE WORK</h3></button></Link>
             </div>
             </header>
         </div>
