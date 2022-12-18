@@ -6,9 +6,8 @@ function NavBar () {
     return (
         <div className= "navbar">
             <Link className="nav" to='/'>Home</Link>
-            <Link className="nav" to= '/portolio'>Portfolio</Link>
+            <Link className="nav" to= '/portfolio'>Portfolio</Link>
             <Link className="nav" to="/about-me">About</Link>
-            <Link className="nav" to="/contact">Contact</Link>
          </div>
     )
 }
