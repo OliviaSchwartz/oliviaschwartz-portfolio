@@ -16,7 +16,7 @@ Hi, Im Olivia. A Software engineer and part-time real estate agent who is passio
               </p>
 
               <div className='resume-container'>
-                <a className='resume-button-container' rel="noreferrer" target="_blank" href='https://drive.google.com/file/d/1luR-8zoldxHmStBNsqhvP-YpDz6TL0lg/view?usp=sharing'>VIEW RESUME</a>
+                <a className='resume-button-container' rel="noreferrer" target="_blank" href='https://drive.google.com/file/d/10-7Qo0szS23Y9q0e403LyT5suIKab26F/view?usp=sharing'>VIEW RESUME</a>
                 <br></br>
               </div>
             </section>
