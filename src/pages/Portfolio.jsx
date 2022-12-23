@@ -30,7 +30,7 @@ function Portfolio(props) {
                   <p className='text'>This project is a full-stack application that utilizes Mongoose, Express, React and Node. This application allows you to log and keep track of runs, as well as write about your training progress in a blog format.</p>
                   <div className='details-button-container'>
             <a className='details-button-containers' rel="noreferrer" target="_blank" href='https://github.com/OliviaSchwartz/Running_Log'>SEE CODE</a>
-            <a className='details-button-containers' rel="noreferrer" target="_blank" href='https://olivias-log.herokuapp.com/'>VISIT WEBSITE</a>
+            <a className='details-button-containers' rel="noreferrer" target="_blank" href='https://olivias-run-log.herokuapp.com/'>VISIT WEBSITE</a>
             </div>
                   </div>
                 </div>
